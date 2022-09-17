@@ -311,8 +311,10 @@ body {
 }
 
 a.main-button-slider {
+  width: 300px;
+  margin-top: 0px;
   font-size: 13px;
-  border-radius: 20px;
+  border-radius: 10px;
   padding: 12px 20px;
   background-color: #ffffff;
   text-transform: uppercase;
@@ -325,6 +327,8 @@ a.main-button-slider {
 }
 
 a.main-button-slider:hover {
+  transform: scale(0.7);
+  width: 100px;
   background-color: #8261ee;
   color: white;
 }
@@ -775,6 +779,10 @@ features
 
 .features-small-item:hover .icon {
   background-color: #0004ff;
+}
+
+.features-small-item:hover {
+  transform: scale(1.05);
 }
 
 .features-small-item .icon {
