@@ -314,9 +314,9 @@ a.main-button-slider {
   font-size: 13px;
   border-radius: 20px;
   padding: 12px 20px;
-  background-color: #ff589e;
+  background-color: #ffffff;
   text-transform: uppercase;
-  color: #fff;
+  color: rgb(64, 0, 255);
   letter-spacing: 0.25px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -326,6 +326,7 @@ a.main-button-slider {
 
 a.main-button-slider:hover {
   background-color: #8261ee;
+  color: white;
 }
 
 a.main-button {
