@@ -465,6 +465,7 @@ header
   z-index: 99;
   right: 40px;
   display: none;
+  transform: scale(0.8);
 }
 
 .header-area .main-nav .menu-trigger span,
