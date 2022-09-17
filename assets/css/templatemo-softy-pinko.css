@@ -395,14 +395,14 @@ header
 }
 
 .header-area .main-nav .logo {
-  transform: scale(0.15); 
+  transform: scale(0.14); 
   float: left;
   margin-top: 10px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  margin-left: -240px;
+  margin-left: -260px;
   margin-right: 225px;
 }
 
