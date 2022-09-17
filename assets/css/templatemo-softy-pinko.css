@@ -812,6 +812,12 @@ features
   margin-top: -754px; 
 }
 
+.jsi {
+  transform: scale(0.085);
+  margin-left: -213px;
+  margin-top: -211px;
+}
+
 .features-small-item .features-title {
   font-weight: 500;
   font-size: 18px;
