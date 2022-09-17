@@ -799,6 +799,13 @@ features
   color: #fff;
 }
 
+.gam {
+  color: #eee;
+  margin-left: -145px;
+  margin-top: -145px;
+  transform: scale(0.12);
+}
+
 .features-small-item .features-title {
   font-weight: 500;
   font-size: 18px;
