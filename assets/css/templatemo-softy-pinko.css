@@ -806,6 +806,12 @@ features
   transform: scale(0.12);
 }
 
+.codei {
+  transform: scale(0.03);
+  margin-left: -755px;
+  margin-top: -754px;
+}
+
 .features-small-item .features-title {
   font-weight: 500;
   font-size: 18px;
